@@ -14,7 +14,7 @@ class SpringBootJenkinsApplicationTests {
 
     @Test
     void contextLoads() {
-        logger.info("Test is executing..");
+        logger.info("Test is executing...");
         assertEquals(1,1);
     }
 
